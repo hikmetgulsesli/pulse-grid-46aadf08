@@ -8,47 +8,47 @@
         "type": "link",
         "label": "Game Board",
         "href": "#fallback-game-board",
-        "line": 1
+        "line": 53
       },
       {
         "type": "link",
         "label": "Main Menu",
         "href": "#fallback-main-menu",
-        "line": 2
+        "line": 53
       },
       {
         "type": "link",
         "label": "Pause Overlay",
         "href": "#fallback-pause-overlay",
-        "line": 3
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Over",
         "href": "#fallback-game-over",
-        "line": 4
+        "line": 53
       },
       {
         "type": "link",
         "label": "Controls Help",
         "href": "#fallback-controls-help",
-        "line": 5
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Options",
         "href": "#fallback-game-options",
-        "line": 6
+        "line": 53
       },
       {
         "type": "button",
-        "label": "Start Game",
-        "line": 1
+        "label": "Pause",
+        "line": 62
       },
       {
         "type": "button",
-        "label": "Open Settings",
-        "line": 1
+        "label": "Restart",
+        "line": 62
       }
     ],
     "navigation": [
@@ -56,55 +56,55 @@
         "type": "link",
         "label": "Game Board",
         "href": "#fallback-game-board",
-        "line": 1
+        "line": 53
       },
       {
         "type": "link",
         "label": "Main Menu",
         "href": "#fallback-main-menu",
-        "line": 2
+        "line": 53
       },
       {
         "type": "link",
         "label": "Pause Overlay",
         "href": "#fallback-pause-overlay",
-        "line": 3
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Over",
         "href": "#fallback-game-over",
-        "line": 4
+        "line": 53
       },
       {
         "type": "link",
         "label": "Controls Help",
         "href": "#fallback-controls-help",
-        "line": 5
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Options",
         "href": "#fallback-game-options",
-        "line": 6
+        "line": 53
       }
     ],
     "buttons": [
       {
         "type": "button",
-        "label": "Start Game",
-        "line": 1
+        "label": "Pause",
+        "line": 62
       },
       {
         "type": "button",
-        "label": "Open Settings",
-        "line": 1
+        "label": "Restart",
+        "line": 62
       }
     ],
     "inputs": [],
     "hardcodedData": [],
     "totalInteractive": 8,
-    "requiresRouter": false,
+    "requiresRouter": true,
     "requiresDragDrop": false
   },
   {
@@ -116,47 +116,52 @@
         "type": "link",
         "label": "Game Board",
         "href": "#fallback-game-board",
-        "line": 1
+        "line": 53
       },
       {
         "type": "link",
         "label": "Main Menu",
         "href": "#fallback-main-menu",
-        "line": 2
+        "line": 53
       },
       {
         "type": "link",
         "label": "Pause Overlay",
         "href": "#fallback-pause-overlay",
-        "line": 3
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Over",
         "href": "#fallback-game-over",
-        "line": 4
+        "line": 53
       },
       {
         "type": "link",
         "label": "Controls Help",
         "href": "#fallback-controls-help",
-        "line": 5
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Options",
         "href": "#fallback-game-options",
-        "line": 6
+        "line": 53
       },
       {
         "type": "button",
-        "label": "Restart",
-        "line": 1
+        "label": "Start Game",
+        "line": 58
+      },
+      {
+        "type": "button",
+        "label": "Resume",
+        "line": 58
       },
       {
         "type": "button",
         "label": "Open Settings",
-        "line": 1
+        "line": 58
       }
     ],
     "navigation": [
@@ -164,55 +169,60 @@
         "type": "link",
         "label": "Game Board",
         "href": "#fallback-game-board",
-        "line": 1
+        "line": 53
       },
       {
         "type": "link",
         "label": "Main Menu",
         "href": "#fallback-main-menu",
-        "line": 2
+        "line": 53
       },
       {
         "type": "link",
         "label": "Pause Overlay",
         "href": "#fallback-pause-overlay",
-        "line": 3
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Over",
         "href": "#fallback-game-over",
-        "line": 4
+        "line": 53
       },
       {
         "type": "link",
         "label": "Controls Help",
         "href": "#fallback-controls-help",
-        "line": 5
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Options",
         "href": "#fallback-game-options",
-        "line": 6
+        "line": 53
       }
     ],
     "buttons": [
       {
         "type": "button",
-        "label": "Restart",
-        "line": 1
+        "label": "Start Game",
+        "line": 58
+      },
+      {
+        "type": "button",
+        "label": "Resume",
+        "line": 58
       },
       {
         "type": "button",
         "label": "Open Settings",
-        "line": 1
+        "line": 58
       }
     ],
     "inputs": [],
     "hardcodedData": [],
-    "totalInteractive": 8,
-    "requiresRouter": false,
+    "totalInteractive": 9,
+    "requiresRouter": true,
     "requiresDragDrop": false
   },
   {
@@ -224,47 +234,47 @@
         "type": "link",
         "label": "Game Board",
         "href": "#fallback-game-board",
-        "line": 1
+        "line": 53
       },
       {
         "type": "link",
         "label": "Main Menu",
         "href": "#fallback-main-menu",
-        "line": 2
+        "line": 53
       },
       {
         "type": "link",
         "label": "Pause Overlay",
         "href": "#fallback-pause-overlay",
-        "line": 3
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Over",
         "href": "#fallback-game-over",
-        "line": 4
+        "line": 53
       },
       {
         "type": "link",
         "label": "Controls Help",
         "href": "#fallback-controls-help",
-        "line": 5
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Options",
         "href": "#fallback-game-options",
-        "line": 6
+        "line": 53
       },
       {
         "type": "button",
         "label": "Restart",
-        "line": 1
+        "line": 58
       },
       {
         "type": "button",
-        "label": "Open Settings",
-        "line": 1
+        "label": "Main Menu",
+        "line": 58
       }
     ],
     "navigation": [
@@ -272,55 +282,55 @@
         "type": "link",
         "label": "Game Board",
         "href": "#fallback-game-board",
-        "line": 1
+        "line": 53
       },
       {
         "type": "link",
         "label": "Main Menu",
         "href": "#fallback-main-menu",
-        "line": 2
+        "line": 53
       },
       {
         "type": "link",
         "label": "Pause Overlay",
         "href": "#fallback-pause-overlay",
-        "line": 3
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Over",
         "href": "#fallback-game-over",
-        "line": 4
+        "line": 53
       },
       {
         "type": "link",
         "label": "Controls Help",
         "href": "#fallback-controls-help",
-        "line": 5
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Options",
         "href": "#fallback-game-options",
-        "line": 6
+        "line": 53
       }
     ],
     "buttons": [
       {
         "type": "button",
         "label": "Restart",
-        "line": 1
+        "line": 58
       },
       {
         "type": "button",
-        "label": "Open Settings",
-        "line": 1
+        "label": "Main Menu",
+        "line": 58
       }
     ],
     "inputs": [],
     "hardcodedData": [],
     "totalInteractive": 8,
-    "requiresRouter": false,
+    "requiresRouter": true,
     "requiresDragDrop": false
   },
   {
@@ -332,47 +342,47 @@
         "type": "link",
         "label": "Game Board",
         "href": "#fallback-game-board",
-        "line": 1
+        "line": 53
       },
       {
         "type": "link",
         "label": "Main Menu",
         "href": "#fallback-main-menu",
-        "line": 2
+        "line": 53
       },
       {
         "type": "link",
         "label": "Pause Overlay",
         "href": "#fallback-pause-overlay",
-        "line": 3
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Over",
         "href": "#fallback-game-over",
-        "line": 4
+        "line": 53
       },
       {
         "type": "link",
         "label": "Controls Help",
         "href": "#fallback-controls-help",
-        "line": 5
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Options",
         "href": "#fallback-game-options",
-        "line": 6
+        "line": 53
       },
       {
         "type": "button",
         "label": "Restart",
-        "line": 1
+        "line": 58
       },
       {
         "type": "button",
-        "label": "Open Settings",
-        "line": 1
+        "label": "Main Menu",
+        "line": 58
       }
     ],
     "navigation": [
@@ -380,55 +390,55 @@
         "type": "link",
         "label": "Game Board",
         "href": "#fallback-game-board",
-        "line": 1
+        "line": 53
       },
       {
         "type": "link",
         "label": "Main Menu",
         "href": "#fallback-main-menu",
-        "line": 2
+        "line": 53
       },
       {
         "type": "link",
         "label": "Pause Overlay",
         "href": "#fallback-pause-overlay",
-        "line": 3
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Over",
         "href": "#fallback-game-over",
-        "line": 4
+        "line": 53
       },
       {
         "type": "link",
         "label": "Controls Help",
         "href": "#fallback-controls-help",
-        "line": 5
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Options",
         "href": "#fallback-game-options",
-        "line": 6
+        "line": 53
       }
     ],
     "buttons": [
       {
         "type": "button",
         "label": "Restart",
-        "line": 1
+        "line": 58
       },
       {
         "type": "button",
-        "label": "Open Settings",
-        "line": 1
+        "label": "Main Menu",
+        "line": 58
       }
     ],
     "inputs": [],
     "hardcodedData": [],
     "totalInteractive": 8,
-    "requiresRouter": false,
+    "requiresRouter": true,
     "requiresDragDrop": false
   },
   {
@@ -440,47 +450,52 @@
         "type": "link",
         "label": "Game Board",
         "href": "#fallback-game-board",
-        "line": 1
+        "line": 53
       },
       {
         "type": "link",
         "label": "Main Menu",
         "href": "#fallback-main-menu",
-        "line": 2
+        "line": 53
       },
       {
         "type": "link",
         "label": "Pause Overlay",
         "href": "#fallback-pause-overlay",
-        "line": 3
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Over",
         "href": "#fallback-game-over",
-        "line": 4
+        "line": 53
       },
       {
         "type": "link",
         "label": "Controls Help",
         "href": "#fallback-controls-help",
-        "line": 5
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Options",
         "href": "#fallback-game-options",
-        "line": 6
+        "line": 53
       },
       {
         "type": "button",
-        "label": "Restart",
-        "line": 1
+        "label": "Start Game",
+        "line": 58
+      },
+      {
+        "type": "button",
+        "label": "Resume",
+        "line": 58
       },
       {
         "type": "button",
         "label": "Open Settings",
-        "line": 1
+        "line": 58
       }
     ],
     "navigation": [
@@ -488,55 +503,60 @@
         "type": "link",
         "label": "Game Board",
         "href": "#fallback-game-board",
-        "line": 1
+        "line": 53
       },
       {
         "type": "link",
         "label": "Main Menu",
         "href": "#fallback-main-menu",
-        "line": 2
+        "line": 53
       },
       {
         "type": "link",
         "label": "Pause Overlay",
         "href": "#fallback-pause-overlay",
-        "line": 3
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Over",
         "href": "#fallback-game-over",
-        "line": 4
+        "line": 53
       },
       {
         "type": "link",
         "label": "Controls Help",
         "href": "#fallback-controls-help",
-        "line": 5
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Options",
         "href": "#fallback-game-options",
-        "line": 6
+        "line": 53
       }
     ],
     "buttons": [
       {
         "type": "button",
-        "label": "Restart",
-        "line": 1
+        "label": "Start Game",
+        "line": 58
+      },
+      {
+        "type": "button",
+        "label": "Resume",
+        "line": 58
       },
       {
         "type": "button",
         "label": "Open Settings",
-        "line": 1
+        "line": 58
       }
     ],
     "inputs": [],
     "hardcodedData": [],
-    "totalInteractive": 8,
-    "requiresRouter": false,
+    "totalInteractive": 9,
+    "requiresRouter": true,
     "requiresDragDrop": false
   },
   {
@@ -548,47 +568,47 @@
         "type": "link",
         "label": "Game Board",
         "href": "#fallback-game-board",
-        "line": 1
+        "line": 53
       },
       {
         "type": "link",
         "label": "Main Menu",
         "href": "#fallback-main-menu",
-        "line": 2
+        "line": 53
       },
       {
         "type": "link",
         "label": "Pause Overlay",
         "href": "#fallback-pause-overlay",
-        "line": 3
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Over",
         "href": "#fallback-game-over",
-        "line": 4
+        "line": 53
       },
       {
         "type": "link",
         "label": "Controls Help",
         "href": "#fallback-controls-help",
-        "line": 5
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Options",
         "href": "#fallback-game-options",
-        "line": 6
+        "line": 53
+      },
+      {
+        "type": "button",
+        "label": "Pause",
+        "line": 62
       },
       {
         "type": "button",
         "label": "Restart",
-        "line": 1
-      },
-      {
-        "type": "button",
-        "label": "Open Settings",
-        "line": 1
+        "line": 62
       }
     ],
     "navigation": [
@@ -596,55 +616,55 @@
         "type": "link",
         "label": "Game Board",
         "href": "#fallback-game-board",
-        "line": 1
+        "line": 53
       },
       {
         "type": "link",
         "label": "Main Menu",
         "href": "#fallback-main-menu",
-        "line": 2
+        "line": 53
       },
       {
         "type": "link",
         "label": "Pause Overlay",
         "href": "#fallback-pause-overlay",
-        "line": 3
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Over",
         "href": "#fallback-game-over",
-        "line": 4
+        "line": 53
       },
       {
         "type": "link",
         "label": "Controls Help",
         "href": "#fallback-controls-help",
-        "line": 5
+        "line": 53
       },
       {
         "type": "link",
         "label": "Game Options",
         "href": "#fallback-game-options",
-        "line": 6
+        "line": 53
       }
     ],
     "buttons": [
       {
         "type": "button",
-        "label": "Restart",
-        "line": 1
+        "label": "Pause",
+        "line": 62
       },
       {
         "type": "button",
-        "label": "Open Settings",
-        "line": 1
+        "label": "Restart",
+        "line": 62
       }
     ],
     "inputs": [],
     "hardcodedData": [],
     "totalInteractive": 8,
-    "requiresRouter": false,
+    "requiresRouter": true,
     "requiresDragDrop": false
   }
 ]
