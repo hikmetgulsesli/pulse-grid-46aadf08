@@ -1,0 +1,38 @@
+[
+  {
+    "screenId": "fallback-game-board",
+    "name": "Game Board",
+    "type": "game",
+    "description": "Game Board screen"
+  },
+  {
+    "screenId": "fallback-main-menu",
+    "name": "Main Menu",
+    "type": "menu",
+    "description": "Main Menu screen"
+  },
+  {
+    "screenId": "fallback-pause-overlay",
+    "name": "Pause Overlay",
+    "type": "app-screen",
+    "description": "Pause Overlay screen"
+  },
+  {
+    "screenId": "fallback-game-over",
+    "name": "Game Over",
+    "type": "game",
+    "description": "Game Over screen"
+  },
+  {
+    "screenId": "fallback-controls-help",
+    "name": "Controls Help",
+    "type": "app-screen",
+    "description": "Controls Help screen"
+  },
+  {
+    "screenId": "fallback-game-options",
+    "name": "Game Options",
+    "type": "settings",
+    "description": "Game Options screen"
+  }
+]
